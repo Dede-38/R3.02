@@ -202,7 +202,7 @@ void Mondial::printCountryBorders(string countryName) const {
         // avancer au frère <country> suivant de currentCountry
         Frontières = Frontières->NextSiblingElement("border");
     }
-    cout << <<endl;
+    cout << <<endl;aaaa
 }
 
 /*
